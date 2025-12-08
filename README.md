@@ -4,6 +4,11 @@
   Desenvolvedora em formação • Estagiária de Programação • Estudante de Engenharia de Software
 </p>
 
+<p align="center">
+  Apaixonada por tecnologia, acessibilidade digital e pela criação de interfaces bem estruturadas. 
+  Evoluindo sempre com foco em boas práticas, clareza técnica e impacto real.
+</p>
+
 ---
 
 ## 🛠 Tecnologias & Ferramentas
@@ -45,8 +50,9 @@
 - Desenvolvimento Web & Mobile  
 - UI/UX e boas práticas  
 - Acessibilidade digital  
-- Arquitetura e documentação técnica  
-- Tecnologia com impacto social  
+- Arquitetura de software  
+- Documentação técnica  
+- Projetos com impacto social  
 
 ---
 
@@ -54,32 +60,53 @@
 - 🎓 Estudante de Engenharia de Software  
 - 💻 Técnica em Desenvolvimento de Sistemas  
 - 📍 Rio de Janeiro – RJ  
-- 📚 Estudando atualmente: Flutter, Firebase, React, Python e acessibilidade  
-- 🚀 Focada em me tornar uma desenvolvedora completa  
+- 📚 Estudando atualmente: Flutter, Firebase, React, Python e Acessibilidade  
+- 🚀 Focada em desenvolver base sólida, qualidade e consistência  
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanunesp&layout=compact&theme=dracula&hide_border=true"
-    height="150"
-  />
-</div>
-
+## ⚙️ O que estou construindo agora
+- Documentação técnica da mensageria  
+- Arquitetura e fluxos de sistemas  
+- Estudos avançados em acessibilidade digital  
+- Conceitos e fundamentos de Firestore (regras, segurança, arquitetura)  
 
 ---
 
-## 🐍 Animação da cobrinha (versão estática)
+## 📁 Projetos em Destaque
 
+### **🔹 Challenge – Sistema Completo (Flutter + Firebase)**  
+Projeto desenvolvido como parte de um desafio técnico. Conduzi **todo o desenvolvimento da interface, organização, documentação e fluxo visual**.  
+A lógica principal do sistema foi finalizada em colaboração com meu líder técnico, que também ajudou a aprimorar o design e refinar detalhes do produto.  
+Esse projeto foi essencial para meu crescimento como desenvolvedora.
+
+---
+
+### **🔹 Cognita – Plataforma Educacional (Flutter + Firebase)**  
+Cognita é uma plataforma criada pela **TINGLE DIGITAL** para conectar professores, alunos, curadores e gestores em um ambiente moderno e acessível.  
+Atuo como colaboradora no time, ajudando com **documentação técnica, análise de arquitetura, code reviews e implementações de etapas específicas do projeto**.
+
+---
+
+### 🔹 Site Casa Organizada — Página de Vendas & Inscrições
+Página desenvolvida como site de vendas e inscrição do curso Casa Organizada.  
+Experiência leve, informativa, responsiva e integrada diretamente ao WhatsApp da consultora.
+
+---
+
+## 🐍 Animação da cobrinha
 <p align="center">
   <img 
     alt="snake animation" 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
   />
 </p>
+
+---
+
+## 📬 Contato
+📧 **E-mail:** gabinpaiva67@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/gabriela-nunes-dev/
 
 ---
 
