@@ -75,7 +75,7 @@
 
 ## 📁 Projetos em Destaque
 
-### **🔹 Challenge – Sistema Completo (Flutter + Firebase)**  
+### **🔹 Challenge – Sistema Completo (React + Firebase)**  
 Projeto desenvolvido como parte de um desafio técnico. Conduzi **todo o desenvolvimento da interface, organização, documentação e fluxo visual**.  
 A lógica principal do sistema foi finalizada em colaboração com meu líder técnico, que também ajudou a aprimorar o design e refinar detalhes do produto.  
 Esse projeto foi essencial para meu crescimento como desenvolvedora.
