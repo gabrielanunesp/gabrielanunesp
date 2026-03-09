@@ -66,10 +66,11 @@
 ---
 
 ## ⚙️ O que estou construindo agora
-- Documentação técnica da mensageria  
-- Arquitetura e fluxos de sistemas  
-- Estudos avançados em acessibilidade digital  
-- Conceitos e fundamentos de Firestore (regras, segurança, arquitetura)  
+- Criando páginas em **WordPress**  
+- Trabalhando com **Cloud, infraestrutura e segurança**  
+- Testando sistemas, reportando bugs e fazendo **code review**  
+- Estudando conceitos avançados de Firestore (regras, segurança, arquitetura)  
+- Estudos avançados em **acessibilidade digital**    
 
 ---
 
@@ -110,5 +111,5 @@ Experiência leve, informativa, responsiva e integrada diretamente ao WhatsApp d
 
 ---
 
-<p align="center">Obrigada por visitar meu perfil! 😊</p>
+<p align="center">Obrigada por visitar meu perfil! ✨</p>
 
