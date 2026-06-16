@@ -1,115 +1,161 @@
-<h1 align="center">Olá! Eu sou a Gabriela 👋</h1>
+<p align="center">
+  <img src="./banner-github.png.png" alt="Gabriela Nunes Banner" width="100%">
+</p>
+
+<h1 align="center">Olá, eu sou a Gabriela Nunes 👋</h1>
 
 <p align="center">
-  Desenvolvedora em formação • Estagiária de Programação • Estudante de Engenharia de Software
+💻 Estagiária de Programação • 🎓 Engenharia de Software • 🚀 Tecnologia com Impacto Social
 </p>
 
 <p align="center">
-  Apaixonada por tecnologia, acessibilidade digital e pela criação de interfaces bem estruturadas. 
-  Evoluindo sempre com foco em boas práticas, clareza técnica e impacto real.
+  <a href="https://www.linkedin.com/in/gabriela-nunes-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🚀 Sobre Mim
 
-### 🔸 Linguagens  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+Sou estudante de Engenharia de Software e Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II.
 
-### 🔸 Front-end & Mobile  
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+Atualmente atuo como Estagiária de Programação e colaboradora em projetos educacionais, participando do desenvolvimento, manutenção e evolução de sistemas utilizados por usuários reais.
 
-### 🔸 Back-end & Cloud  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
-### 🔸 Ferramentas  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
+Tenho experiência prática com desenvolvimento web e mobile, QA, suporte técnico, documentação, análise de chamados, correção de bugs e implementação de novas funcionalidades.
 
 ---
 
-## 🎯 Interesses
-- Desenvolvimento Web & Mobile  
-- UI/UX e boas práticas  
-- Acessibilidade digital  
-- Arquitetura de software  
-- Documentação técnica  
-- Projetos com impacto social  
+## 💼 Atuação Atual
+
+✔ Desenvolvimento de módulos e funcionalidades
+
+✔ Correção de bugs e melhorias contínuas
+
+✔ Code Review
+
+✔ QA e testes de software
+
+✔ Suporte Nível 1
+
+✔ Análise e resolução de chamados
+
+✔ Integração com APIs REST
+
+✔ Firebase e Firestore
+
+✔ Ajustes e manutenção em WordPress
+
+✔ Documentação Técnica
 
 ---
 
-## ✨ Sobre mim
-- 🎓 Estudante de Engenharia de Software  
-- 💻 Técnica em Desenvolvimento de Sistemas  
-- 📍 Rio de Janeiro – RJ  
-- 📚 Estudando atualmente: Flutter, Firebase, React, Python e Acessibilidade  
-- 🚀 Focada em desenvolver base sólida, qualidade e consistência  
+## 🌟 Projetos em Destaque
+
+### 🔹 EPES Startup Challenge
+
+Projeto voltado ao desenvolvimento de competências em programação e empreendedorismo.
+
+Este projeto foi desenvolvido para a EPES, um workshop prático de empreendedorismo onde alunos foram desafiados a criar e gerenciar suas próprias empresas em um ambiente simulado.
+
+Atuei no desenvolvimento do sistema com foco em:
+
+Estruturação do front-end (React + TypeScript)
+Criação e adaptação das telas (login, dashboard, decisões, ranking, etc.)
+Integração com Firebase (Authentication e Firestore)
+Implementação de funcionalidades e fluxos principais da aplicação
+Padronização visual e consistência entre as telas
+Correção de bugs e melhorias com base no uso real
+
+### 🔹 Cognita | Colaboradora
+
+Plataforma educacional desenvolvida para conectar alunos, professores, curadores e gestores.
+
+Atuo realizando:
+
+- Desenvolvimento de tasks
+- Correção de bugs
+- Implementação de funcionalidades
+- Code Review
+- QA e testes
+- Documentação técnica
+- Análise de requisitos do sistema
+- Suporte à evolução da plataforma
 
 ---
 
-## ⚙️ O que estou construindo agora
-- Criando páginas em **WordPress**  
-- Trabalhando com **Cloud, infraestrutura e segurança**  
-- Testando sistemas, reportando bugs e fazendo **code review**  
-- Estudando conceitos avançados de Firestore (regras, segurança, arquitetura)  
-- Estudos avançados em **acessibilidade digital**    
+## 🛠 Tecnologias e Ferramentas
+
+### Linguagens
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Front-End & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+### Back-End, Cloud & Banco de Dados
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 
 ---
 
-## 📁 Projetos em Destaque
+## 🎯 Atualmente Estudando
 
-### **🔹 Challenge – Sistema Completo (React + Firebase)**  
-Projeto desenvolvido como parte de um desafio técnico. Conduzi **todo o desenvolvimento da interface, organização, documentação e fluxo visual**.  
-A lógica principal do sistema foi finalizada em colaboração com meu líder técnico, que também ajudou a aprimorar o design e refinar detalhes do produto.  
-Esse projeto foi essencial para meu crescimento como desenvolvedora.
-
----
-
-### **🔹 Cognita – Plataforma Educacional (Flutter + Firebase)**  
-Cognita é uma plataforma criada pela **TINGLE DIGITAL** para conectar professores, alunos, curadores e gestores em um ambiente moderno e acessível.  
-Atuo como colaboradora no time, ajudando com **documentação técnica, análise de arquitetura, code reviews e implementações de etapas específicas do projeto**.
+- Engenharia de Software
+- APIs REST
+- Git Avançado
+- Cloud Computing
+- Arquitetura de Software
+- Firebase Avançado
+- Inglês para Tecnologia
 
 ---
 
-### 🔹 Site Casa Organizada — Página de Vendas & Inscrições
-Página desenvolvida como site de vendas e inscrição do curso Casa Organizada.  
-Experiência leve, informativa, responsiva e integrada diretamente ao WhatsApp da consultora.
+## 📚 Formação
+
+🎓 Engenharia de Software (Cursando)
+
+🎓 Técnico em Desenvolvimento de Sistemas — Colégio Pedro II
+
+🎓 Oracle Next Education (ONE) — Oracle + Alura
 
 ---
 
-## 🐍 Animação da cobrinha
-<p align="center">
-  <img 
-    alt="snake animation" 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</p>
+## 📊 Estatísticas
+
+![Gabriela GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielanunesp&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanunesp&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Contato
-📧 **E-mail:** gabinpaiva67@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/gabriela-nunes-dev/
+
+📧 gabinpaiva67@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/gabriela-nunes-dev
+
+📍 Rio de Janeiro - RJ
 
 ---
 
-<p align="center">Obrigada por visitar meu perfil! ✨</p>
+# 💙 CODE • EDUCATION • IMPACT
 
+Transformando ideias em soluções através da tecnologia.
