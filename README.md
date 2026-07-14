@@ -2,160 +2,206 @@
   <img src="./banner-github.png.png" alt="Gabriela Nunes Banner" width="100%">
 </p>
 
-<h1 align="center">Olá, eu sou a Gabriela Nunes 👋</h1>
+# Olá, eu sou a Gabriela Nunes 👋
 
-<p align="center">
-💻 Estagiária de Programação • 🎓 Engenharia de Software • 🚀 Tecnologia com Impacto Social
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriela-nunes-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+💻 Estagiária de Programação | Desenvolvedora de Software em Formação  
+🎓 Engenharia de Software (6º período)  
+🚀 Desenvolvimento Web, Mobile e Tecnologia Educacional  
+📍 Rio de Janeiro, Brasil  
 
 ---
 
-## 🚀 Sobre Mim
+# 👩‍💻 Sobre Mim
 
-Sou estudante de Engenharia de Software e Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II.
+Sou estudante de **Engenharia de Software** e formada como **Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II**.
 
-Atualmente atuo como Estagiária de Programação e colaboradora em projetos educacionais, participando do desenvolvimento, manutenção e evolução de sistemas utilizados por usuários reais.
+Atualmente atuo como **Estagiária de Programação na Casa Brasil, através da Tingle Digital**, contribuindo no desenvolvimento, manutenção e evolução de soluções digitais utilizadas por usuários reais.
 
-Tenho experiência prática com desenvolvimento web e mobile, QA, suporte técnico, documentação, análise de chamados, correção de bugs e implementação de novas funcionalidades.
+Minha atuação envolve diferentes etapas do ciclo de desenvolvimento de software, incluindo análise de demandas, implementação de funcionalidades, correção de bugs, testes, documentação técnica e suporte à evolução dos sistemas.
 
----
+Tenho experiência prática com desenvolvimento **Web e Mobile**, Firebase, Firestore, APIs REST, integração de serviços, análise de requisitos, regras de negócio e resolução de problemas técnicos.
 
-## 💼 Atuação Atual
-
-✔ Desenvolvimento de módulos e funcionalidades
-
-✔ Correção de bugs e melhorias contínuas
-
-✔ Code Review
-
-✔ QA e testes de software
-
-✔ Suporte Nível 1
-
-✔ Análise e resolução de chamados
-
-✔ Integração com APIs REST
-
-✔ Firebase e Firestore
-
-✔ Ajustes e manutenção em WordPress
-
-✔ Documentação Técnica
+Busco evoluir continuamente em **engenharia de software, arquitetura de sistemas, cloud computing e boas práticas de desenvolvimento**.
 
 ---
 
-## 🌟 Projetos em Destaque
+# 💼 Experiência Profissional
 
-### 🔹 EPES Startup Challenge
+## 🚀 Estagiária de Programação | Casa Brasil
 
-Projeto voltado ao desenvolvimento de competências em programação e empreendedorismo.
+**Atuação através da Tingle Digital**
 
-Este projeto foi desenvolvido para a EPES, um workshop prático de empreendedorismo onde alunos foram desafiados a criar e gerenciar suas próprias empresas em um ambiente simulado.
+Atuação no desenvolvimento e evolução de uma plataforma educacional, contribuindo na implementação de funcionalidades, manutenção do sistema e resolução de demandas técnicas.
 
-Atuei no desenvolvimento do sistema com foco em:
+### Atividades:
 
-Estruturação do front-end (React + TypeScript)
-Criação e adaptação das telas (login, dashboard, decisões, ranking, etc.)
-Integração com Firebase (Authentication e Firestore)
-Implementação de funcionalidades e fluxos principais da aplicação
-Padronização visual e consistência entre as telas
-Correção de bugs e melhorias com base no uso real
-
-### 🔹 Cognita | Colaboradora
-
-Plataforma educacional desenvolvida para conectar alunos, professores, curadores e gestores.
-
-Atuo realizando:
-
-- Desenvolvimento de tasks
-- Correção de bugs
-- Implementação de funcionalidades
-- Code Review
-- QA e testes
-- Documentação técnica
-- Análise de requisitos do sistema
-- Suporte à evolução da plataforma
+✔ Desenvolvimento de funcionalidades Web e Mobile  
+✔ Manutenção e evolução de sistemas existentes  
+✔ Correção de bugs e melhorias contínuas  
+✔ Integração com Firebase, Firestore e APIs REST  
+✔ Análise de requisitos e regras de negócio  
+✔ Testes e validação de funcionalidades (QA)  
+✔ Documentação técnica das implementações  
+✔ Análise e resolução de chamados  
+✔ Suporte técnico inicial aos usuários  
+✔ Investigação de problemas em ambientes de desenvolvimento e produção  
+✔ Participação em Code Review  
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+# 🌟 Principais Contribuições
 
-### Linguagens
+## 🤖 Módulo de Inteligência Artificial
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Desenvolvimento e evolução de um módulo integrado com Inteligência Artificial.
 
-### Front-End & Mobile
+### Atuação:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+- Implementação de funcionalidades do módulo;
+- Integração entre aplicação, backend e serviços externos;
+- Estruturação de fluxos de interação;
+- Persistência e organização de histórico de conversas;
+- Melhorias e ajustes técnicos.
 
-### Back-End, Cloud & Banco de Dados
+### Tecnologias:
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+Flutter • Firebase • Python • FastAPI • APIs REST
 
 ---
 
-## 🎯 Atualmente Estudando
+## 📋 Sistema de Gestão de Solicitações
 
-- Engenharia de Software
-- APIs REST
-- Git Avançado
-- Cloud Computing
-- Arquitetura de Software
-- Firebase Avançado
-- Inglês para Tecnologia
+Desenvolvimento e manutenção de funcionalidades para gerenciamento de solicitações internas.
 
----
+### Atuação:
 
-## 📚 Formação
+- Evolução de fluxos do sistema;
+- Implementação de novas funcionalidades;
+- Correção de problemas identificados em testes e produção;
+- Análise técnica de demandas;
+- Melhorias baseadas nas necessidades dos usuários.
 
-🎓 Engenharia de Software (Cursando)
+### Tecnologias:
 
-🎓 Técnico em Desenvolvimento de Sistemas — Colégio Pedro II
-
-🎓 Oracle Next Education (ONE) — Oracle + Alura
+Flutter • Firebase • Firestore • Python
 
 ---
 
-## 📊 Estatísticas
+## 📊 Módulo de Relatórios e Análise de Dados
 
-![Gabriela GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielanunesp&show_icons=true&theme=tokyonight)
+Atuação na análise, correção e evolução de funcionalidades relacionadas à geração de relatórios da plataforma.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanunesp&layout=compact&theme=tokyonight)
+### Atuação:
+
+- Análise técnica dos relatórios existentes;
+- Investigação de inconsistências nos dados;
+- Análise de regras de negócio;
+- Correção de relatórios e pipelines;
+- Validação de resultados;
+- Documentação das soluções aplicadas.
+
+### Tecnologias:
+
+Flutter • Firebase • Firestore • Cloud Functions
 
 ---
 
-## 📬 Contato
+# 🚀 Projeto em Destaque
+
+## 🔹 EPES Startup Challenge
+
+Aplicação desenvolvida para um ambiente educacional de empreendedorismo e programação.
+
+O projeto permitiu que alunos simulassem a criação e gestão de empresas em uma experiência prática.
+
+### Minha atuação:
+
+- Desenvolvimento de interfaces utilizando React e TypeScript;
+- Implementação de telas e fluxos da aplicação;
+- Integração com Firebase Authentication;
+- Integração com Firestore;
+- Correção de bugs;
+- Melhorias de usabilidade e experiência do usuário.
+
+### Tecnologias:
+
+React • TypeScript • Firebase • Firestore • Vite
+
+---
+
+# 🛠 Tecnologias e Ferramentas
+
+## Linguagens
+
+HTML • CSS • JavaScript • TypeScript • Python
+
+## Front-End & Mobile
+
+React • Flutter • Tailwind CSS • Vite
+
+## Backend, Cloud & Banco de Dados
+
+Node.js • Python • Firebase • Firestore • Google Cloud • APIs REST
+
+## Ferramentas
+
+Git • GitHub • WordPress
+
+---
+
+# 🎓 Formação
+
+🎓 **Engenharia de Software**  
+6º período | Em andamento
+
+🎓 **Técnico em Desenvolvimento de Sistemas**  
+Colégio Pedro II
+
+🎓 **Oracle Next Education (ONE)**  
+Oracle + Alura
+
+---
+
+# 📚 Atualmente Estudando
+
+- Arquitetura de Software;
+- APIs REST;
+- Banco de Dados e SQL;
+- Git Avançado;
+- Cloud Computing;
+- Firebase Avançado;
+- Segurança de Software;
+- Inglês para Tecnologia.
+
+---
+
+# 🏆 Experiência em Destaque
+
+✨ Desenvolvimento de funcionalidades em sistemas utilizados por usuários reais.
+
+✨ Atuação com Web, Mobile, Inteligência Artificial e análise de dados.
+
+✨ Participação em diferentes etapas do ciclo de desenvolvimento de software.
+
+✨ Experiência com manutenção, correção de bugs e evolução contínua de sistemas.
+
+---
+
+# 📬 Contato
 
 📧 gabinpaiva67@gmail.com
 
-💼 LinkedIn:
+💼 LinkedIn:  
 www.linkedin.com/in/gabriela-nunes-dev
 
 📍 Rio de Janeiro - RJ
 
 ---
 
-# 💙 CODE • EDUCATION • IMPACT
+<div align="center">
+
+💙 **CODE • EDUCATION • IMPACT**
 
 Transformando ideias em soluções através da tecnologia.
+
+</div>
