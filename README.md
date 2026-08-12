@@ -4,94 +4,131 @@
 
 # Olá, eu sou a Gabriela Nunes 👋
 
-💻 Desenvolvedora de Software em Formação
-🎓 Engenharia de Software — 6º período
-🚀 Web • Mobile • Cloud • Inteligência Artificial
+💻 **Desenvolvedora de Software em Formação**  
+🎓 Engenharia de Software — 6º período  
+🚀 Web • Mobile • Backend • Cloud • IA  
 📍 Rio de Janeiro, Brasil
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II.
+Sou estudante de **Engenharia de Software** e **Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II**.
 
-Atualmente atuo como **Estagiária de Programação na Casa Brasil (Tingle Digital)**, contribuindo no desenvolvimento e evolução de sistemas utilizados por usuários reais.
+Atualmente atuo como **Desenvolvedora de Software em formação na Casa Brasil (Tingle Digital)**, contribuindo no desenvolvimento e evolução de sistemas utilizados por usuários reais.
 
-Tenho experiência prática com:
+Minha experiência envolve **desenvolvimento Web e Mobile, backend, integração de serviços, análise de requisitos, investigação de bugs, regras de negócio, testes e documentação técnica**.
 
-**Flutter • React • Firebase • Firestore • Python • FastAPI • APIs REST**
-
-Atuo com desenvolvimento Web e Mobile, integração de serviços, análise de requisitos, correção de bugs, testes e documentação técnica.
-
-Busco evoluir continuamente em Engenharia de Software, arquitetura de sistemas e soluções em cloud.
+Tenho trabalhado principalmente com **Flutter, React, Firebase, Firestore, Python e FastAPI**, buscando evoluir cada vez mais em **Backend, Arquitetura de Software e Cloud Computing**.
 
 ---
 
-## 🚀 Experiência & Projetos
+## 💼 Experiência & Projetos
+
+### 🏢 Desenvolvimento de Software — Casa Brasil
+
+Atuação no desenvolvimento e manutenção de sistemas, participando da implementação de funcionalidades, análise de problemas e correção de bugs.
+
+Experiência com investigação de inconsistências de dados, regras de negócio, integração entre frontend e backend e evolução de funcionalidades existentes.
+
+**Flutter • Firebase • Firestore • Cloud Functions • Python • FastAPI**
+
+---
 
 ### 🤖 Inteligência Artificial
 
-Desenvolvimento de um módulo integrado com Inteligência Artificial para uma plataforma educacional, conectando aplicação, backend e serviços externos.
+Desenvolvimento de módulo integrado com Inteligência Artificial para uma plataforma educacional, conectando aplicação, backend e serviços externos.
 
-**Tecnologias:** Flutter • Firebase • Python • FastAPI • Claude
-
----
-
-### 📊 Relatórios e Dados
-
-Análise e evolução de funcionalidades de relatórios, investigando dados, regras de negócio e melhorias no sistema.
-
-**Tecnologias:** Flutter • Firebase • Firestore • Cloud Functions
+**Flutter • Firebase • Python • FastAPI • Claude**
 
 ---
 
 ### 🚀 EPES Startup Challenge
 
-Aplicação educacional de empreendedorismo e programação, com desenvolvimento de interfaces e integração com serviços Firebase.
+Aplicação educacional de empreendedorismo e programação desenvolvida durante desafio de tecnologia.
 
-**Tecnologias:** React • TypeScript • Firebase • Firestore • Vite
+Atuação no desenvolvimento de interfaces e integração com serviços Firebase.
+
+**React • TypeScript • Firebase • Firestore • Vite**
 
 ---
 
-## 🛠 Tecnologias
+### 🦾 Simulador de Braço Robótico
 
-**Linguagens**
+Aplicação web interativa desenvolvida em React, permitindo controlar articulações de um braço robótico em tempo real.
+
+**React • JavaScript • Tailwind CSS**
+
+---
+
+## 🧠 O que venho desenvolvendo
+
+🔎 **Debug & Investigação** — análise de problemas e identificação de causas raiz
+
+🔗 **Integração** — comunicação entre frontend, backend, APIs e serviços externos
+
+☁️ **Cloud** — Firebase, Firestore, Cloud Functions e serviços Google Cloud
+
+⚙️ **Backend** — Python, FastAPI e APIs REST
+
+🏗️ **Engenharia de Software** — arquitetura, organização de código e regras de negócio
+
+🧪 **Qualidade** — testes, validação e documentação técnica
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens**  
 HTML • CSS • JavaScript • TypeScript • Python
 
-**Front-End & Mobile**
+**Web & Mobile**  
 React • Flutter • Tailwind CSS • Vite
 
-**Backend & Cloud**
-Node.js • Firebase • Firestore • Google Cloud • APIs REST
+**Backend & Cloud**  
+Firebase • Firestore • Cloud Functions • FastAPI • APIs REST • Google Cloud
 
-**IA & Ferramentas**
-Claude API • FastAPI • Git • GitHub • WordPress
+**Ferramentas**  
+Git • GitHub • WordPress • Claude API
 
 ---
 
 ## 🎓 Formação
 
-🎓 Engenharia de Software — 6º período (em andamento)
+🎓 **Engenharia de Software** — 6º período  
+*Em andamento*
 
-🎓 Técnico em Desenvolvimento de Sistemas — Colégio Pedro II
+🎓 **Técnico em Desenvolvimento de Sistemas**  
+*Colégio Pedro II*
 
-🎓 Oracle Next Education (ONE)
+🎓 **Oracle Next Education (ONE)**
 
 ---
 
 ## 📚 Atualmente estudando
 
-Arquitetura de Software • Clean Architecture • Cloud Computing • Firebase Avançado • Segurança de Software
+🏗️ Arquitetura de Software  
+⚙️ Desenvolvimento Backend  
+☁️ Cloud Computing  
+🧩 Clean Architecture  
+🔥 Firebase Avançado  
+🔐 Segurança de Software
+
+---
+
+## 📊 GitHub
+
+Atualmente desenvolvendo projetos e contribuindo para sistemas reais,
+com foco em desenvolvimento de software, backend, cloud e integração de serviços.
 
 ---
 
 ## 📫 Contato
 
-📧 [gabinpaiva67@gmail.com](mailto:gabinpaiva67@gmail.com)
+📧 **gabinpaiva67@gmail.com**
 
-💼 LinkedIn: [www.linkedin.com/in/gabriela-nunes-dev](http://www.linkedin.com/in/gabriela-nunes-dev)
+💼 [LinkedIn](https://www.linkedin.com/in/gabriela-nunes-dev) • 📷 [Instagram](https://www.instagram.com/gabriela_nunesp/)
 
 ---
 
-💙 CODE • EDUCATION • IMPACT
-
+### 💙 CODE • EDUCATION • IMPACT
