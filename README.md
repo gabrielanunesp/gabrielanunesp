@@ -42,7 +42,7 @@ Aprofundando meus conhecimentos em **Backend, Arquitetura de Software, Cloud Com
 ### 📫 Contato
 
 📧 **gabinpaiva67@gmail.com**  
-💼 **LinkedIn** • 📷 **Instagram**
+💼 [LinkedIn](https://www.linkedin.com/in/gabriela-nunes-dev) • 📷 [Instagram](https://www.instagram.com/gabriela_nunesp/)
 
 ---
 
