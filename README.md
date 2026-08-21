@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="./banner-github.png.png" alt="Gabriela Nunes Banner" width="100%">
-</p>
-
-# Gabriela Nunes | Software Developer 
+# Gabriela Nunes | Software Developer
 
 **Engenharia de Software • Backend • Cloud • Mobile**
 
-Desenvolvedora de Software em formação, construindo soluções e evoluindo na prática com projetos reais.
+Desenvolvedora de Software em formação, com experiência prática em projetos reais.
 
 ### 💻 Trabalho com
 
@@ -15,10 +11,17 @@ Desenvolvedora de Software em formação, construindo soluções e evoluindo na 
 🔎 **Debug** — investigação e resolução de problemas  
 🧪 **Qualidade** — testes, validação e documentação
 
+### 🚀 Experiência prática
+
+Atuação em sistemas reais, contribuindo com desenvolvimento, correção de bugs,
+testes, investigação de problemas, integração de serviços e documentação técnica.
+
+**Flutter • React • Firebase • Firestore • Python • FastAPI**
+
 ### 🛠️ Stack
 
 **Linguagens**  
-`JavaScript` `TypeScript` `Python` `HTML` `CSS`
+`JavaScript` `TypeScript` `Python` `Dart` `HTML` `CSS`
 
 **Web & Mobile**  
 `React` `Flutter` `Tailwind CSS` `Vite`
